@@ -12,6 +12,7 @@ Quand vous relâchez la barre d'espacement, la vidéo à l'avant-plan ré-appara
 - Clonez ce projet
 - Créez votre branche
 - Résolvez l'exercice
+- Pushez votre branche
 
 Attention, les vidéos sont déjà dans /dist puisqu'aucune dépendance n'interagit avec ce type de médias.
 
