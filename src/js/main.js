@@ -13,8 +13,8 @@
 //
 // Code du prof
 $("body").keydown(function(e){
- 32 == e.keyCode && ($(".premium").addClass("hide"), $("img").addClass("hide"));
+ 32 == e.keyCode && ($(".premium").addClass("hide"), $("img").addClass("hidden"))
  });
  $("body").keyup(function(e){
-  32 == e.keyCode && ($(".premium").removeClass("hide"), $("img").removeClass("hide"));
+  32 == e.keyCode && ($(".premium").removeClass("hide"), $("img").removeClass("hidden"))
   });
