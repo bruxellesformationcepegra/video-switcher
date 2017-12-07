@@ -18,3 +18,6 @@ Attention, les vidéos sont déjà dans /dist puisqu'aucune dépendance n'intera
 
 ## Démo
 [Lien vers la démo](http://cepegra-labs.be/webdesign/2017/cours/js/video-switch/)
+
+# Preview
+[Lien vers la preview](https://htmlpreview.github.io/?https://github.com/bruxellesformationcepegra/video-switcher/blob/florence/dist/index.html)
